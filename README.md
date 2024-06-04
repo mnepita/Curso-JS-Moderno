@@ -8,3 +8,18 @@ Curso JS Moderno - Udemy #codigoConJuan [udemy](https://www.udemy.com/course/jav
 - En el curso he aprendido diferentes conceptos de ES6 como Templates Literals, arrow functions, iteradores, async/await.
 
 
+### Lectures
+1.
+2.
+3.
+4.
+
+
+12.  Array Methods
+
+### ToDo
+-
+-
+-
+
+
