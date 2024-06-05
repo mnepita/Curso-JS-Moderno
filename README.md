@@ -17,9 +17,12 @@ Curso JS Moderno - Udemy #codigoConJuan [udemy](https://www.udemy.com/course/jav
 10.
 11.
 12. Array Methods
+13. DOM Traversing
+14. Events
 
 
 ### Resources
+- [MSDN JavaScript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
 ## Aprendido 
@@ -27,8 +30,8 @@ Curso JS Moderno - Udemy #codigoConJuan [udemy](https://www.udemy.com/course/jav
 
 
 ### ToDo
-- 
--
+- array methods - how to loop thru
+- dom traversing
 -
 
 
