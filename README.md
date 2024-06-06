@@ -19,6 +19,7 @@ Curso JS Moderno - Udemy #codigoConJuan [udemy](https://www.udemy.com/course/jav
 12. Array Methods
 13. DOM Traversing
 14. Events
+15. Proyecto Carrito de compras
 
 
 ### Resources
@@ -32,6 +33,6 @@ Curso JS Moderno - Udemy #codigoConJuan [udemy](https://www.udemy.com/course/jav
 ### ToDo
 - array methods - how to loop thru
 - dom traversing
--
+- events
 
 
